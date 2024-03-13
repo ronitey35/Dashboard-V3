@@ -165,6 +165,13 @@ export const topDealUsers = [
     email: "angel@gmail.com",
     amount: "1.560",
   },
+  {
+    id: 8,
+    img: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    username: "Clover Reeves",
+    email: "Cloverash@gmail.com",
+    amount: "6.8",
+  },
 ];
 
 export const chartBoxUser = {
